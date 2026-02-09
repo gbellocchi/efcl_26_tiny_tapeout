@@ -8,13 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+I have modified a very nice VGA example project at the Tiny Tapeout Workshop at the EFCL Winter School 2026 in Zurich!
 
 ## How to test
-
-Explain how to use your project
+TBD...;)
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+TBD...;)
